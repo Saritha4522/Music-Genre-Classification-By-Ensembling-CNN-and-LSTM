@@ -1,3 +1,3 @@
 # Music-Genre-Classification-By-Ensembling-CNN-and-LSTM
 
-Dataset : /kaggle/input/gtzan-genre-collection
+Dataset : https://www.kaggle.com/datasets/carlthome/gtzan-genre-collection
